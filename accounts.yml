@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank Accounts related default APIs "
+  message: "Welcome to EazyBank Accounts related docker APIs "
   contactDetails:
     name: "Prince Kumar - Developer"
     email: "prince@gmail.com"
